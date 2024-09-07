@@ -17,7 +17,7 @@ JavaScript: Lógica da aplicação, responsável pela busca e exibição dos res
 
 # Como usar:
 
-Acesse a aplicação: Para utilizar o buscador, basta acessar o seguinte link: https://atletas-smoky.vercel.app/
+Acesse a aplicação: Para utilizar o buscador, basta acessar o seguinte link: https://atletas-xi.vercel.app/
 Contribuições:
 
 Sinta-se à vontade para contribuir com este projeto! Se você encontrar algum bug ou tiver alguma sugestão, entre em contato através do [seu email].
@@ -47,7 +47,7 @@ CSS: Page styling.
 JavaScript: Application logic, responsible for searching and displaying results.
 How to use:
 
-Access the application: To use the searcher, simply access the following link: https://atletas-smoky.vercel.app/
+Access the application: To use the searcher, simply access the following link: https://atletas-xi.vercel.app/
 Contributions:
 
 Feel free to contribute to this project! If you find any bugs or have any suggestions, please contact [your email].
